@@ -1,9 +1,9 @@
 # CFA
 
-Folder Structure Conventions
+Folder Structure 
 ============================
 
-> Folder structure
+
 
 ### 
 
